@@ -7,7 +7,7 @@
 .secciones1 {
     display: flex;
     align-items: center; /* Centra verticalmente */
-    gap: 20px;           /* Espacio entre la imagen y el texto */
+    gap: 30px;           /* Espacio entre la imagen y el texto */
 }
 
 .texto1 {
