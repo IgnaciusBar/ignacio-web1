@@ -21,3 +21,12 @@
     aspect-ratio:4/3;
     border:none;
 }
+
+@font-face {
+    font-family: "Titulo";
+    src: url("fuentes/Oswald-Light.ttf") format("truetype");
+}
+
+.titulo {
+    font-family: "Titulo", sans-serif;
+}
