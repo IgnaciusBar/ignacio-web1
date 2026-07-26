@@ -1,7 +1,7 @@
 .encabezado {
     display: flex;
     align-items: center; /* Centra verticalmente */
-    gap: 30px;           /* Espacio entre la imagen y el texto */
+    gap: 40px;           /* Espacio entre la imagen y el texto */
 }
 
 .secciones1 {
