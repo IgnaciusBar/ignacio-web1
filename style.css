@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: "Titulo";
-    src: url("fuentes/Oswald-Light.ttf") format("truetype");
+    src: url("fuentes/Oswald-Medium.ttf") format("truetype");
 }
 
 .titulo {
